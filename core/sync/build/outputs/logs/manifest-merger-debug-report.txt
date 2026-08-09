@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml:2:13-83
+INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml:2:13-83
+	package
+		INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml
+	xmlns:android
+		ADDED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml:2:23-81
+uses-sdk
+INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml reason: use-sdk injection requested
+INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml
+INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml
+	android:minSdkVersion
+		INJECTED from /Users/dwarakaporeddy/AndroidStudioProjects/AndroidAtlasNotes/core/sync/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8922813171701996524.xml
